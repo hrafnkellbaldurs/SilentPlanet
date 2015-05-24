@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 5e61fc690991240439469c4187298b9f
+timeCreated: 1431792382
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ugly_Alien_Spritesheet_0
+    21300002: Ugly_Alien_Spritesheet_1
+    21300004: Ugly_Alien_Spritesheet_2
+    21300006: Ugly_Alien_Spritesheet_3
+    21300008: Ugly_Alien_Spritesheet_4
+    21300010: Ugly_Alien_Spritesheet_5
+    21300012: Ugly_Alien_Spritesheet_6
+    21300014: Ugly_Alien_Spritesheet_7
+    21300016: Ugly_Alien_Spritesheet_8
+    21300018: Ugly_Alien_Spritesheet_9
+    21300020: Ugly_Alien_Spritesheet_10
+    21300022: Ugly_Alien_Spritesheet_11
+    21300024: Ugly_Alien_Spritesheet_12
+    21300026: Ugly_Alien_Spritesheet_13
+    21300028: Ugly_Alien_Spritesheet_14
+    21300030: Ugly_Alien_Spritesheet_15
+    21300032: Ugly_Alien_Spritesheet_16
+    21300034: Ugly_Alien_Spritesheet_17
+    21300036: Ugly_Alien_Spritesheet_18
+    21300038: Ugly_Alien_Spritesheet_19
+    21300040: Ugly_Alien_Spritesheet_20
+    21300042: Ugly_Alien_Spritesheet_21
+    21300044: Ugly_Alien_Spritesheet_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ugly_Alien_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1302
+        width: 260
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1302
+        width: 259
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1307
+        width: 260
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1298
+        width: 260
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1308
+        width: 260
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1310
+        width: 260
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1315
+        width: 260
+        height: 328
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 863
+        width: 259
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 870
+        width: 260
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 878
+        width: 260
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 879
+        width: 260
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 879
+        width: 260
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 881
+        width: 260
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 886
+        width: 259
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 460
+        width: 260
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 454
+        width: 260
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 454
+        width: 260
+        height: 331
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 445
+        width: 260
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 444
+        width: 257
+        height: 328
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 440
+        width: 260
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 458
+        width: 260
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 60
+        width: 260
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ugly_Alien_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 55
+        width: 260
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

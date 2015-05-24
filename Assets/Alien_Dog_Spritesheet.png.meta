@@ -1,0 +1,1452 @@
+fileFormatVersion: 2
+guid: 5f8163b140af2a74db6b38a1b459ba10
+timeCreated: 1431644364
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Alien_Dog_Spritesheet_0
+    21300002: Alien_Dog_Spritesheet_1
+    21300004: Alien_Dog_Spritesheet_2
+    21300006: Alien_Dog_Spritesheet_3
+    21300008: Alien_Dog_Spritesheet_4
+    21300010: Alien_Dog_Spritesheet_5
+    21300012: Alien_Dog_Spritesheet_6
+    21300014: Alien_Dog_Spritesheet_7
+    21300016: Alien_Dog_Spritesheet_8
+    21300018: Alien_Dog_Spritesheet_9
+    21300020: Alien_Dog_Spritesheet_10
+    21300022: Alien_Dog_Spritesheet_11
+    21300024: Alien_Dog_Spritesheet_12
+    21300026: Alien_Dog_Spritesheet_13
+    21300028: Alien_Dog_Spritesheet_14
+    21300030: Alien_Dog_Spritesheet_15
+    21300032: Alien_Dog_Spritesheet_16
+    21300034: Alien_Dog_Spritesheet_17
+    21300036: Alien_Dog_Spritesheet_18
+    21300038: Alien_Dog_Spritesheet_19
+    21300040: Alien_Dog_Spritesheet_20
+    21300042: Alien_Dog_Spritesheet_21
+    21300044: Alien_Dog_Spritesheet_22
+    21300046: Alien_Dog_Spritesheet_23
+    21300048: Alien_Dog_Spritesheet_24
+    21300050: Alien_Dog_Spritesheet_25
+    21300052: Alien_Dog_Spritesheet_26
+    21300054: Alien_Dog_Spritesheet_27
+    21300056: Alien_Dog_Spritesheet_28
+    21300058: Alien_Dog_Spritesheet_29
+    21300060: Alien_Dog_Spritesheet_30
+    21300062: Alien_Dog_Spritesheet_31
+    21300064: Alien_Dog_Spritesheet_32
+    21300066: Alien_Dog_Spritesheet_33
+    21300068: Alien_Dog_Spritesheet_34
+    21300070: Alien_Dog_Spritesheet_35
+    21300072: Alien_Dog_Spritesheet_36
+    21300074: Alien_Dog_Spritesheet_37
+    21300076: Alien_Dog_Spritesheet_38
+    21300078: Alien_Dog_Spritesheet_39
+    21300080: Alien_Dog_Spritesheet_40
+    21300082: Alien_Dog_Spritesheet_41
+    21300084: Alien_Dog_Spritesheet_42
+    21300086: Alien_Dog_Spritesheet_43
+    21300088: Alien_Dog_Spritesheet_44
+    21300090: Alien_Dog_Spritesheet_45
+    21300092: Alien_Dog_Spritesheet_46
+    21300094: Alien_Dog_Spritesheet_47
+    21300096: Alien_Dog_Spritesheet_48
+    21300098: Alien_Dog_Spritesheet_49
+    21300100: Alien_Dog_Spritesheet_50
+    21300102: Alien_Dog_Spritesheet_51
+    21300104: Alien_Dog_Spritesheet_52
+    21300106: Alien_Dog_Spritesheet_53
+    21300108: Alien_Dog_Spritesheet_54
+    21300110: Alien_Dog_Spritesheet_55
+    21300112: Alien_Dog_Spritesheet_56
+    21300114: Alien_Dog_Spritesheet_57
+    21300116: Alien_Dog_Spritesheet_58
+    21300118: Alien_Dog_Spritesheet_59
+    21300120: Alien_Dog_Spritesheet_60
+    21300122: Alien_Dog_Spritesheet_61
+    21300124: Alien_Dog_Spritesheet_62
+    21300126: Alien_Dog_Spritesheet_63
+    21300128: Alien_Dog_Spritesheet_64
+    21300130: Alien_Dog_Spritesheet_65
+    21300132: Alien_Dog_Spritesheet_66
+    21300134: Alien_Dog_Spritesheet_67
+    21300136: Alien_Dog_Spritesheet_68
+    21300138: Alien_Dog_Spritesheet_69
+    21300140: Alien_Dog_Spritesheet_70
+    21300142: Alien_Dog_Spritesheet_71
+    21300144: Alien_Dog_Spritesheet_72
+    21300146: Alien_Dog_Spritesheet_73
+    21300148: Alien_Dog_Spritesheet_74
+    21300150: Alien_Dog_Spritesheet_75
+    21300152: Alien_Dog_Spritesheet_76
+    21300154: Alien_Dog_Spritesheet_77
+    21300156: Alien_Dog_Spritesheet_78
+    21300158: Alien_Dog_Spritesheet_79
+    21300160: Alien_Dog_Spritesheet_80
+    21300162: Alien_Dog_Spritesheet_81
+    21300164: Alien_Dog_Spritesheet_82
+    21300166: Alien_Dog_Spritesheet_83
+    21300168: Alien_Dog_Spritesheet_84
+    21300170: Alien_Dog_Spritesheet_85
+    21300172: Alien_Dog_Spritesheet_86
+    21300174: Alien_Dog_Spritesheet_87
+    21300176: Alien_Dog_Spritesheet_88
+    21300178: Alien_Dog_Spritesheet_89
+    21300180: Alien_Dog_Spritesheet_90
+    21300182: Alien_Dog_Spritesheet_91
+    21300184: Alien_Dog_Spritesheet_92
+    21300186: Alien_Dog_Spritesheet_93
+    21300188: Alien_Dog_Spritesheet_94
+    21300190: Alien_Dog_Spritesheet_95
+    21300192: Alien_Dog_Spritesheet_96
+    21300194: Alien_Dog_Spritesheet_97
+    21300196: Alien_Dog_Spritesheet_98
+    21300198: Alien_Dog_Spritesheet_99
+    21300200: Alien_Dog_Spritesheet_100
+    21300202: Alien_Dog_Spritesheet_101
+    21300204: Alien_Dog_Spritesheet_102
+    21300206: Alien_Dog_Spritesheet_103
+    21300208: Alien_Dog_Spritesheet_104
+    21300210: Alien_Dog_Spritesheet_105
+    21300212: Alien_Dog_Spritesheet_106
+    21300214: Alien_Dog_Spritesheet_107
+    21300216: Alien_Dog_Spritesheet_108
+    21300218: Alien_Dog_Spritesheet_109
+    21300220: Alien_Dog_Spritesheet_110
+    21300222: Alien_Dog_Spritesheet_111
+    21300224: Alien_Dog_Spritesheet_112
+    21300226: Alien_Dog_Spritesheet_113
+    21300228: Alien_Dog_Spritesheet_114
+    21300230: Alien_Dog_Spritesheet_115
+    21300232: Alien_Dog_Spritesheet_116
+    21300234: Alien_Dog_Spritesheet_117
+    21300236: Alien_Dog_Spritesheet_118
+    21300238: Alien_Dog_Spritesheet_119
+    21300240: Alien_Dog_Spritesheet_120
+    21300242: Alien_Dog_Spritesheet_121
+    21300244: Alien_Dog_Spritesheet_122
+    21300246: Alien_Dog_Spritesheet_123
+    21300248: Alien_Dog_Spritesheet_124
+    21300250: Alien_Dog_Spritesheet_125
+    21300252: Alien_Dog_Spritesheet_126
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Alien_Dog_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3362
+        width: 161
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 3362
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3355
+        width: 164
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 3362
+        width: 166
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 3365
+        width: 170
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 3365
+        width: 170
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 3368
+        width: 171
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 3374
+        width: 173
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 3377
+        width: 173
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 3387
+        width: 173
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3190
+        width: 175
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 3189
+        width: 178
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3201
+        width: 180
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3192
+        width: 183
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 3204
+        width: 183
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 3199
+        width: 185
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 3204
+        width: 182
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 3190
+        width: 180
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 3195
+        width: 175
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 3195
+        width: 171
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3002
+        width: 167
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3014
+        width: 164
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3017
+        width: 163
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3017
+        width: 159
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 3038
+        width: 154
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 3028
+        width: 152
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 3029
+        width: 152
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3038
+        width: 154
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 3031
+        width: 154
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 3031
+        width: 152
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2796
+        width: 150
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2801
+        width: 152
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2815
+        width: 152
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2824
+        width: 151
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2807
+        width: 152
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2813
+        width: 152
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 2805
+        width: 152
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 2798
+        width: 153
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 2817
+        width: 153
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 2793
+        width: 153
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2601
+        width: 154
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2622
+        width: 154
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2633
+        width: 153
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2620
+        width: 154
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2613
+        width: 153
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 2623
+        width: 154
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 2630
+        width: 153
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 2616
+        width: 155
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2622
+        width: 154
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 2627
+        width: 154
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2402
+        width: 156
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2419
+        width: 156
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2440
+        width: 154
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2435
+        width: 155
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 2435
+        width: 154
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 2457
+        width: 155
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2474
+        width: 154
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 2438
+        width: 155
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 2435
+        width: 156
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2438
+        width: 154
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2209
+        width: 153
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2222
+        width: 154
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2248
+        width: 153
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2267
+        width: 154
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 2260
+        width: 154
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 2272
+        width: 153
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2289
+        width: 153
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 2243
+        width: 156
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 2234
+        width: 157
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 2238
+        width: 158
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2017
+        width: 159
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2034
+        width: 161
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1991
+        width: 152
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1998
+        width: 153
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 2007
+        width: 153
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 2003
+        width: 152
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 2017
+        width: 152
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 2022
+        width: 153
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 2027
+        width: 155
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1808
+        width: 154
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1810
+        width: 154
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1558
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1571
+        width: 152
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1582
+        width: 150
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1580
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1587
+        width: 152
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1599
+        width: 150
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1608
+        width: 151
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1611
+        width: 150
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1623
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1632
+        width: 150
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1376
+        width: 150
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1388
+        width: 150
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1397
+        width: 150
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1405
+        width: 151
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1405
+        width: 151
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1402
+        width: 151
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1428
+        width: 152
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1426
+        width: 151
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1423
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1443
+        width: 151
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1195
+        width: 151
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1198
+        width: 151
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1226
+        width: 151
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1222
+        width: 153
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1238
+        width: 151
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1227
+        width: 152
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1220
+        width: 152
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1250
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1241
+        width: 153
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1243
+        width: 151
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1017
+        width: 152
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1011
+        width: 153
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1030
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1024
+        width: 152
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1022
+        width: 151
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1006
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1016
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1047
+        width: 149
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1049
+        width: 149
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1054
+        width: 149
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 832
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 804
+        width: 151
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 808
+        width: 151
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 796
+        width: 151
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 792
+        width: 150
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_Dog_Spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 801
+        width: 152
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
