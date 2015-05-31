@@ -36,7 +36,7 @@ public class Player_Script : MonoBehaviour {
 	public Transform shooter; // Transform coordinates of the Player
 	public LayerMask layersDetectedByHook; // The Layer that you can grapple too
 	public bool isGrappled = false;
-	public Material mat; // Material of the grappling rope
+	public Material ropeMat; // Material of the grappling rope
 	public float grapplingRopeWidth;
 	public float grapplingHookShotTime;
 	public GrapplingHookController grapplingHookController;
@@ -93,8 +93,6 @@ public class Player_Script : MonoBehaviour {
 	public float knockBackCount;
 	
 	//BÆTT INN FYRIR WALLJUMP!!!
-	//public Transform wallCheck;
-	//public float wallCheckRadius;
 	public LayerMask WhatIsWall;
 	
 	public Transform groundCheckPoint1;
@@ -121,8 +119,6 @@ public class Player_Script : MonoBehaviour {
 
 	//SOUND
 	private LevelManager sound;
-	
-	//private float move; // The horizontal movement input by the player's controls
 
 	public Vector3 mouseDirection;
 	public Transform gamepadDirectionTransform;
@@ -143,6 +139,7 @@ public class Player_Script : MonoBehaviour {
 		rope.SetWidth(grapplingRopeWidth, grapplingRopeWidth);         // Width of the rope
 		rope.SetVertexCount(2);              // Number of rope elements
 		rope.material.color = Color.black;   // Rope is black
+		//Debug.Log (rope.GetComponent<Renderer> ().sortingLayerName);
 		rope.enabled = false;                // Make rope not render by default
 		
 		ropeCollisionPoints = new Stack();

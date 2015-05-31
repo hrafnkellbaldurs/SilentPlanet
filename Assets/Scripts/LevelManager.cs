@@ -21,6 +21,10 @@ public class LevelManager : MonoBehaviour {
 	public AudioSource grappleShoot;
 	public AudioSource grappleHitVine;
 	public AudioSource playerRunning;
+	public AudioSource wind;
+	public AudioSource backgroundMusic;
+	public AudioSource backgroundMusicBegin;
+	public AudioSource fire;
 
 
 	// Use this for initialization
@@ -33,6 +37,15 @@ public class LevelManager : MonoBehaviour {
 		grappleShoot = GameObject.Find ("GrapplingHookShoot").GetComponent<AudioSource> ();
 		grappleHitVine = GameObject.Find ("GrapplingHookHitVine").GetComponent<AudioSource> ();
 		playerRunning = GameObject.Find ("PlayerRunning").GetComponent<AudioSource> ();
+		wind = GameObject.Find ("Wind").GetComponent<AudioSource> ();
+		backgroundMusic = GameObject.Find ("BackGroundMusic").GetComponent<AudioSource> ();
+		backgroundMusicBegin = GameObject.Find ("BackGroundMusicBegin").GetComponent<AudioSource> ();
+		fire = GameObject.Find ("Fire").GetComponent<AudioSource> ();
+
+		wind.Play ();
+		fire.Play ();
+		backgroundMusicBegin.Play ();
+		backgroundMusic.Play ();
 		playerRunning.Play ();
 	}
 	
