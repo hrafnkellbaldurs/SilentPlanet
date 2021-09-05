@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using System.Collections;
 
 public class LevelLoader : MonoBehaviour {
@@ -14,7 +15,8 @@ public class LevelLoader : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if ((Input.GetKeyDown (KeyCode.W) || Input.GetAxisRaw ("Vertical") > 0.9f) && playerInZone) {
-			Application.LoadLevel(levelToLoad);
+			//Application.LoadLevel(levelToLoad);
+			SceneManager.LoadScene(levelToLoad);
 		}
 	}
 	void OnTriggerEnter2D(Collider2D other){

@@ -23,8 +23,7 @@ public class CreateLight_VLS : MonoBehaviour
             float rad = (i * (360f / points)) * Mathf.Deg2Rad;
             circleLookup[i] = new Vector2(Mathf.Sin(rad), Mathf.Cos(rad));
         }
-
-        Random.seed = gameObject.GetInstanceID();
+        Random.InitState(gameObject.GetInstanceID());
         CreateLight(spawnPoint);
     }
 

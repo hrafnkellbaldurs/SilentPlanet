@@ -111,7 +111,8 @@ public class Light2DEditor : Editor
     void OnSceneGUI()
     {
         Light2D l = (Light2D)target;
-        EditorUtility.SetSelectedWireframeHidden(l.GetComponent<Renderer>(), !l.EDITOR_SHOW_MESH);
+        EditorSelectedRenderState editorSelectedRenderState = l.EDITOR_SHOW_MESH ? EditorSelectedRenderState.Wireframe : EditorSelectedRenderState.Hidden;
+        EditorUtility.SetSelectedRenderState(l.GetComponent<Renderer>(), editorSelectedRenderState);
         Tools.current = Tool.None;
         Event e = Event.current;
 
@@ -142,12 +143,12 @@ public class Light2DEditor : Editor
                 float widgetSize = Vector3.Distance(l.transform.position, SceneView.lastActiveSceneView.camera.transform.position) * 0.1f;
                 float rad = (l.LightRadius);
                 Handles.DrawWireDisc(l.transform.position, l.transform.forward, rad);
-                lightRadius.floatValue = Mathf.Clamp(Handles.ScaleValueHandle(l.LightRadius, l.transform.TransformPoint(Vector3.right * rad), Quaternion.identity, widgetSize, Handles.CubeCap, 1), 0.001f, Mathf.Infinity);
+                lightRadius.floatValue = Mathf.Clamp(Handles.ScaleValueHandle(l.LightRadius, l.transform.TransformPoint(Vector3.right * rad), Quaternion.identity, widgetSize, Handles.CubeHandleCap, 1), 0.001f, Mathf.Infinity);
 
                 Handles.color = Color.red;
                 Vector3 sPos = l.transform.TransformDirection(Mathf.Cos(Mathf.Deg2Rad * -((l.LightConeAngle / 2f) - l.LightConeStart)), Mathf.Sin(Mathf.Deg2Rad * -((l.LightConeAngle / 2f) - l.LightConeStart)), 0);
                 Handles.DrawWireArc(l.transform.position, l.transform.forward, sPos, l.LightConeAngle, (rad * 0.8f));
-                sweepSize.floatValue = Mathf.Clamp(Handles.ScaleValueHandle(l.LightConeAngle, l.transform.position - l.transform.right * (rad * 0.8f), Quaternion.identity, widgetSize, Handles.CubeCap, 1), 0, 360);
+                sweepSize.floatValue = Mathf.Clamp(Handles.ScaleValueHandle(l.LightConeAngle, l.transform.position - l.transform.right * (rad * 0.8f), Quaternion.identity, widgetSize, Handles.CubeHandleCap, 1), 0, 360);
             }
         }
 

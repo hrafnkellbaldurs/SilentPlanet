@@ -90,7 +90,8 @@ namespace Assets.ThirdParty.Spriter2Unity.Editor.Unity
                 if (prefabGo == null)
                 {
                     go = new GameObject();
-                    prefabGo = PrefabUtility.CreatePrefab(prefabPath, go, ReplacePrefabOptions.ConnectToPrefab);
+                    prefabGo = PrefabUtility.SaveAsPrefabAssetAndConnect(go, prefabPath, InteractionMode.AutomatedAction);
+
                 }
                 else
                 {
@@ -123,18 +124,14 @@ namespace Assets.ThirdParty.Spriter2Unity.Editor.Unity
                     {
                         if (animationClip)
                         {
-#if UNITY_5
                             controller.AddMotion(animationClip);
-#else
-							AnimatorController.AddAnimationClipToController(controller, animationClip);
-#endif
                         }
                     }
                 }
                 UnityEditor.Animations.AnimatorController.SetAnimatorController(animator, controller);
                 go.SetActive(true);
                 //Update the prefab
-                PrefabUtility.ReplacePrefab(go, prefabGo, ReplacePrefabOptions.ConnectToPrefab);
+                PrefabUtility.SaveAsPrefabAssetAndConnect(go, prefabPath, InteractionMode.AutomatedAction);
                 
                 //Add a generic avatar - because why not?
                 //TODO: May need to eventually break this into a separate class

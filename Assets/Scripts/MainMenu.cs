@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using System.Collections;
 
 public class MainMenu : MonoBehaviour {
@@ -34,7 +35,8 @@ public class MainMenu : MonoBehaviour {
 		//			paused.isPaused = !paused.isPaused;
 		//		}
 		PlayerPrefs.SetInt ("PlayerCurrentLives", playerLives);
-		Application.LoadLevel (startLevel);
+        //Application.LoadLevel(startLevel);
+        SceneManager.LoadScene(startLevel);
 	}
 
 	public void QuitGame(){

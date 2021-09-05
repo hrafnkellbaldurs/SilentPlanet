@@ -94,19 +94,22 @@ namespace Tiled2Unity
 
             // Keep normals otherwise Unity will complain about needing them.
             // Normals may not be a bad idea anyhow
-            modelImporter.normalImportMode = ModelImporterTangentSpaceMode.Import;
+            modelImporter.importNormals = ModelImporterNormals.Import;
+
 
             // Don't need animations or tangents.
             modelImporter.generateAnimations = ModelImporterGenerateAnimations.None;
             modelImporter.animationType = ModelImporterAnimationType.None;
-            modelImporter.tangentImportMode = ModelImporterTangentSpaceMode.None;
+            modelImporter.importTangents = ModelImporterTangents.None;
+
 
             // Do not need mesh colliders on import.
             modelImporter.addCollider = false;
 
             // We will create and assign our own materials.
             // This gives us more control over their construction.
-            modelImporter.importMaterials = false;
+            modelImporter.materialImportMode = ModelImporterMaterialImportMode.None;
+
         }
 
         private void OnPostprocessModel(GameObject gameObject)
@@ -124,7 +127,7 @@ namespace Tiled2Unity
 #if UNITY_5_0
                 mr.shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.Off;
 #else
-                mr.castShadows = false;
+                mr.shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.Off;
 #endif
             }
         }
@@ -168,19 +171,18 @@ namespace Tiled2Unity
             this.assetImporter.userData = "tiled2unity";
 
             TextureImporter textureImporter = this.assetImporter as TextureImporter;
-            textureImporter.textureType = TextureImporterType.Advanced;
+            textureImporter.textureType = TextureImporterType.Default;
             textureImporter.npotScale = TextureImporterNPOTScale.None;
             textureImporter.convertToNormalmap = false;
-            textureImporter.lightmap = false;
+            textureImporter.textureType = TextureImporterType.Default;
             textureImporter.alphaIsTransparency = true;
-            textureImporter.grayscaleToAlpha = false;
-            textureImporter.linearTexture = false;
+            textureImporter.alphaSource = TextureImporterAlphaSource.FromInput;
+            textureImporter.sRGBTexture = false;
             textureImporter.spriteImportMode = SpriteImportMode.None;
             textureImporter.mipmapEnabled = false;
-            textureImporter.generateCubemap = TextureImporterGenerateCubemap.None;
+            textureImporter.generateCubemap = (TextureImporterGenerateCubemap)textureImporter.textureShape;
             textureImporter.filterMode = FilterMode.Point;
             textureImporter.wrapMode = TextureWrapMode.Clamp;
-            textureImporter.textureFormat = TextureImporterFormat.AutomaticTruecolor;
         }
 
     }

@@ -134,13 +134,18 @@ public class Player_Script : MonoBehaviour {
 		grapple.enabled = false;                  // Disable the SpringJoint between the player and the hooable object
 		rope = GetComponent<LineRenderer> ();     // Access the linerenderer for the rope
 		hitObject = GameObject.FindGameObjectWithTag("GrappleHit");  // Get the object that points to the grapple point
-		
+
 		// The code for the rendering of the line
-		rope.SetWidth(grapplingRopeWidth, grapplingRopeWidth);         // Width of the rope
-		rope.SetVertexCount(2);              // Number of rope elements
-		rope.material.color = Color.black;   // Rope is black
+		// Width of the rope
+		rope.startWidth = grapplingRopeWidth;
+		rope.endWidth = grapplingRopeWidth;
+		// Number of rope elements
+		rope.positionCount = 2;
+		// Rope is black
+		rope.material.color = Color.black;
 		//Debug.Log (rope.GetComponent<Renderer> ().sortingLayerName);
-		rope.enabled = false;                // Make rope not render by default
+		// Make rope not render by default
+		rope.enabled = false;                
 		
 		ropeCollisionPoints = new Stack();
 		ropeCollPoes = new ArrayList();
@@ -623,7 +628,7 @@ public class Player_Script : MonoBehaviour {
 			public void redrawRope()
 			{
 				int counter = ropeCollPoes.Count;
-				rope.SetVertexCount (counter + 2);
+				rope.positionCount = counter + 2;
 				for(int i = 0; i < counter; i++) 
 				{
 					rope.SetPosition(i, (Vector3)ropeCollPoes[i]);
